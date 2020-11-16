@@ -1,0 +1,2 @@
+      int totalCost =  (int) Math.round(meal_cost + (meal_cost * tip_percent * 0.01) +(meal_cost * tax_percent * 0.01));
+        
